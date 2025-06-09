@@ -1,6 +1,4 @@
-Here's a complete GitHub-ready `README.md` with all essential Nmap commands, formatted with proper Markdown syntax:
 
-```markdown
 # Nmap Command Cheat Sheet
 
 A comprehensive collection of Nmap commands for penetration testing, network discovery, and security auditing.
@@ -293,18 +291,3 @@ nmap -e eth0 target.com
 nmap -n target.com  # Never resolve
 nmap -R target.com  # Always resolve
 ```
-
-## License
-This cheat sheet is MIT licensed. Use responsibly and only on networks you own or have permission to scan.
-```
-
-To use this:
-1. Create a new GitHub repository
-2. Add this as `README.md`
-3. Consider adding:
-   - A `.gitignore` file
-   - A LICENSE file (MIT recommended)
-   - Examples of command outputs
-   - Contribution guidelines
-
-Would you like me to provide any additional files for the repository?
